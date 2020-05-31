@@ -568,6 +568,7 @@ body{
 
 
     .rulesPic{
+        border-radius:0;
         margin:0;
         padding:0;
         height:100%;
